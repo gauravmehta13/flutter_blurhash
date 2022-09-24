@@ -1,6 +1,6 @@
-[![Flutter Community: flutter_blurhash](https://fluttercommunity.dev/_github/header/flutter_blurhash)](https://github.com/fluttercommunity/community)
+[![Flutter Community: flutter_blurhash_fix](https://fluttercommunity.dev/_github/header/flutter_blurhash_fix)](https://github.com/fluttercommunity/community)
 
-[![pub package](https://img.shields.io/pub/v/flutter_blurhash.svg)](https://pub.dev/packages/flutter_blurhash)
+[![pub package](https://img.shields.io/pub/v/flutter_blurhash_fix.svg)](https://pub.dev/packages/flutter_blurhash_fix)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40BlueAquilae)](https://twitter.com/blueaquilae)
 # Flutter BlurHash
 

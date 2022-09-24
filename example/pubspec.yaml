@@ -1,6 +1,6 @@
 name: example
 version: 1.0.0
-homepage: https://github.com/fluttercommunity/flutter_blurhash
+homepage: https://github.com/fluttercommunity/flutter_blurhash_fix
 maintainer: Robert Felker (@Solido)
 publish_to: none
 
@@ -14,7 +14,7 @@ dependencies:
   inview_notifier_list: ^3.0.0
   google_fonts: ^2.3.1
 
-  flutter_blurhash:
+  flutter_blurhash_fix:
     path: ../
 
 dev_dependencies:

@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/painting.dart';
-import 'package:flutter_blurhash/flutter_blurhash.dart';
+import 'package:flutter_blurhash_fix/flutter_blurhash_fix.dart';
 
 const _DEFAULT_SIZE = 32;
 
